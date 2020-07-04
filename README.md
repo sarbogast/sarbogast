@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**sarbogast/sarbogast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:
+  - [HeronTrack](https://www.herontrack.com)
+  - [APPROOF References](https://www.derbigum.fr/solutions-digitales/approof-references/)
+  - Chapter42
+  - [NomadFlare](https://www.nomadflare.com)
+  - [ChainSkills](https://www.chainskills.com)
+- 🌱 I’m currently learning 
+  - Flutter
+  - React (always re-learning)
+- 😄 Pronouns: he/his/his
+- ⚡ Fun fact: I set my alarm in the middle of the night to watch rocket launches
