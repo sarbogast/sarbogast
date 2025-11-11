@@ -9,5 +9,5 @@
   - [ChainSkills](https://www.chainskills.com)
 - 🌱 I’m currently learning 
   - Flutter
-- 😄 Pronouns: he/his/his
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I set my alarm in the middle of the night to watch rocket launches
